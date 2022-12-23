@@ -15,4 +15,4 @@ Estou desenvolvendo esse formulário para me aperfeiçoar em HTML, CSS e JS.
 
 <br>
 
-Por <a href="https://github.com/gustamtz">gustamtz</a>
+Por: <a href="https://github.com/gustamtz">gustamtz</a>
