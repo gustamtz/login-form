@@ -1,17 +1,17 @@
-# Login form (*loading*)
+# Login form.
 
-![print form](https://user-images.githubusercontent.com/113216494/208558028-f879196a-13b0-41da-bc93-f0e57060dc32.png)
+https://user-images.githubusercontent.com/113216494/209448759-fde9a066-e5b1-4881-b646-a833770acbb4.mp4
 
 <br>
 
 # Descrição
-Formulário de login com HTML, CSS e JavaScript em construção...
+Formulário de login com HTML, CSS e JavaScript com restrições.
 
 # Como usar
 Baixe o zip ou acesse o `index.html` e abra no seu navegador.
 
 # Por que? 
-Estou desenvolvendo esse formulário para me aperfeiçoar em HTML, CSS e JS.
+Decidi desenvolver esse formulário para me aperfeiçoar em HTML, CSS e JS.
 
 <br>
 
