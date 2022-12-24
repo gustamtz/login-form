@@ -8,14 +8,14 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background-image: url(./img/wallpaper.jpg);
+  background: #eee;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .container {
-  background-color: #fafafa;
+  background-color: #f6f0f0;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   width: 430px;
@@ -24,7 +24,8 @@ body {
 }
 
 .header {
-  background-color: #eee;
+  background-color: rgb(46, 89, 228);
+  color: #fff;
   padding: 20px;
 }
 
@@ -67,13 +68,20 @@ body {
 }
 
 .form button {
-  background-color: green;
-  border: 2px solid green;
+  background-color: rgb(46, 89, 228);
+  border: 2px solid #fff;
   color: #fff;
   font-size: 14px;
   width: 100%;
   border-radius: 10px;
   padding: 10px;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.form button:hover {
+  opacity: 0.6;
+  transition: 1s;
 }
 
 .form-control.success input {
