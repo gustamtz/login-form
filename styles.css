@@ -55,6 +55,7 @@ body {
 .form-control i {
   position: absolute;
   top: 45px;
+  right: 10px;
   visibility: hidden;
 }
 
@@ -93,7 +94,7 @@ body {
   visibility: visible;
 }
 
-.form-control small {
+.form-control.error small {
   color: #e74c3c;
   visibility: visible;
 }
