@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/113216494/209448759-fde9a066-e5b1-4881
 <br>
 
 # Descrição
-Formulário de login com HTML, CSS e JavaScript com restrições.
+Formulário de login com HTML, CSS e JavaScript.
 
 # Como usar
 Baixe o zip ou acesse o `index.html` e abra no seu navegador.
