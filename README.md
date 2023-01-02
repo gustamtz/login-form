@@ -8,10 +8,10 @@ https://user-images.githubusercontent.com/113216494/210268157-c97ed811-724d-4a3b
 Formulário de login feito com HTML, CSS e JavaScript.
 
 # Como usar
-Baixe o zip ou acesse o `index.html` e abra no seu navegador.
+Baixe o `zip` ou clone o repositório e abra o `index.html` no seu navegador.
 
 # Por que? 
-Decidi desenvolver esse formulário para me aperfeiçoar em HTML, CSS e JS.
+Decidi desenvolver esse formulário para me aperfeiçoar em HTML, CSS e JavaScript.
 
 <br>
 <br>
