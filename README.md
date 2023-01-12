@@ -11,7 +11,7 @@ Formulário de login feito com HTML, CSS e JavaScript.
 Baixe o `zip` ou clone o repositório e abra o `index.html` no seu navegador.
 
 # Por que? 
-Decidi desenvolver esse formulário para me aperfeiçoar em HTML, CSS e JavaScript.
+Desenvolvi esse formulário para me aperfeiçoar em manipulação do DOM com JS puro.
 
 <br>
 <br>
