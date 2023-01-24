@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/113216494/210268157-c97ed811-724d-4a3b
 
 <br>
 
-# Visualize o projeto
+## Visualize o projeto
 Baixe o `zip` ou clone o repositório e abra o `index.html` no seu navegador.
 
 <br>
